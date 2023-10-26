@@ -46,3 +46,5 @@ function clearDiv() {
 
 draw(16);
 paint(divs);
+
+// helped by eyow
